@@ -1,1 +1,1 @@
-# gsuit-web-app
+# G-Suit Web Application
