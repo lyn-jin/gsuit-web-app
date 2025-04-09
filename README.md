@@ -11,8 +11,8 @@ Submit a pull request
 
 ## Project Structure
 gsuit-web-app/<br>
-├── backend/     # Node.js + Express + MongoDB (API server)<br>
-└── frontend/    # React (client UI)
+├─ backend/     # Node.js + Express + MongoDB (API server)<br>
+└─ frontend/    # React (client UI)
 
 ## Technologies Used
 ### Frontend: React
