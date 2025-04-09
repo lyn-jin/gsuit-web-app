@@ -16,9 +16,9 @@ gsuit-web-app/<br>
 
 ## Technologies Used
 <b>Frontend:</b> React<br>
-Backend: Node.js, Express.js, MongoDB Atlas (cloud)<br>
-Database: MongoDB (free-tier via MongoDB Atlas)<br>
-Other Tools: Git, GitHub, Webstorm<br>
+<b>Backend:</b> Node.js, Express.js, MongoDB Atlas (cloud)<br>
+<b>Database:</b> MongoDB (free-tier via MongoDB Atlas)<br>
+<b>Other Tools:</b> Git, GitHub, Webstorm<br>
 
 ## Getting stated
 ### 1. Clone the Repository
