@@ -4,9 +4,9 @@ The G-Suit application is developed to monitor and visualize core muscle activat
 
 ### Contribution
 ## Fork Repository
-Create a new branch: `git checkout -b branch_name`.
-Make changes and commit: `git commit - 'changes detail'`.
-Push the branch: `git push origin branch_name`.
+Create a new branch: `git checkout -b branch_name`.<br>
+Make changes and commit: `git commit - 'changes detail'`.<br>
+Push the branch: `git push origin branch_name`.<br>
 Submit a pull request
 
 ## Project Structure
