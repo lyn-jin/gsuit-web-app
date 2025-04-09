@@ -4,15 +4,15 @@ The G-Suit application is developed to monitor and visualize core muscle activat
 
 ### Contribution
 ## Fork Repository
-### Create a new branch: `git checkout -b branch_name`.
-### Make changes and commit: `git commit - 'changes detail'`.
-### Push the branch: `git push origin branch_name`.
-### Submit a pull request
+Create a new branch: `git checkout -b branch_name`.
+Make changes and commit: `git commit - 'changes detail'`.
+Push the branch: `git push origin branch_name`.
+Submit a pull request
 
 ## Project Structure
-### gsuit-web-app/
-### ├── backend/     # Node.js + Express + MongoDB (API server)
-### └── frontend/    # React (client UI)
+gsuit-web-app/
+├── backend/     # Node.js + Express + MongoDB (API server)
+└── frontend/    # React (client UI)
 
 ## Technologies Used
 ### Frontend: React
