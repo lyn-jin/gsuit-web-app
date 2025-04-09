@@ -22,7 +22,7 @@
 
 ## Getting stated
 ### 1. Clone the Repository
-`git@github.com:lyn-jin/gsuit-web-app.git`
+<pre>`git@github.com:lyn-jin/gsuit-web-app.git`</pre>
 `cd gsuit-web-app`
 
 ### 
