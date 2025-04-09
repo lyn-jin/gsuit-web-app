@@ -39,7 +39,7 @@ The backend will run on http://localhost:8000 (or any other port you set).
 
 ### 3. Setup Frontend
 <pre>
-  cd frontend<br>
+cd frontend<br>
 npm install<br>
 npm start
 </pre>
@@ -49,9 +49,7 @@ The frontend will run on http://localhost:3000
 | Name         | Role              | Responsibility                  |
 |--------------|-------------------|---------------------------------|
 | Rinzin       | Backend Developer | API setup, MongoDB integration  |
-| Rinzin & 
-  Vincent      | Frontend Dev      | React UI, Axios integration     |
-| Ksenia &
-  Praj         | Data Analyst      | EMG data processing & analysis  |
+| Rinzin & Vincent      | Frontend Dev      | React UI, Axios integration     |
+| Ksenia &Praj         | Data Analyst      | EMG data processing & analysis  |
 | Dawa         | BA                | Client communication, planning  |
 
