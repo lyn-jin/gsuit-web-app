@@ -23,7 +23,7 @@
 ## Getting stated
 ### 1. Clone the Repository
 ```git@github.com:lyn-jin/gsuit-web-app.git```
-cd gsuit-web-app```
-```
+```cd gsuit-web-app```
+
 ### 
 
