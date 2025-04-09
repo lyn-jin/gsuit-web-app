@@ -10,8 +10,8 @@ Push the branch: `git push origin branch_name`.
 Submit a pull request
 
 ## Project Structure
-gsuit-web-app/
-├── backend/     # Node.js + Express + MongoDB (API server)
+gsuit-web-app/<br>
+├── backend/     # Node.js + Express + MongoDB (API server)<br>
 └── frontend/    # React (client UI)
 
 ## Technologies Used
