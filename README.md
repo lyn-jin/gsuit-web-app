@@ -15,7 +15,7 @@ gsuit-web-app/<br>
 └─ frontend/    # React (client UI)
 
 ## Technologies Used
-Frontend: React<br>
+<b>Frontend:</b> React<br>
 Backend: Node.js, Express.js, MongoDB Atlas (cloud)<br>
 Database: MongoDB (free-tier via MongoDB Atlas)<br>
 Other Tools: Git, GitHub, Webstorm<br>
