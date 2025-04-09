@@ -50,6 +50,6 @@ The frontend will run on http://localhost:3000
 |--------------|-------------------|---------------------------------|
 | Rinzin       | Backend Developer | API setup, MongoDB integration  |
 | Rinzin & Vincent      | Frontend Dev      | React UI, Axios integration     |
-| Ksenia &Praj         | Data Analyst      | EMG data processing & analysis  |
+| Ksenia & Praj         | Data Analyst      | EMG data processing & analysis  |
 | Dawa         | BA                | Client communication, planning  |
 
