@@ -2,7 +2,7 @@
 ## Purpose
 ### The G-Suit application is developed to monitor and visualize core muscle activation in the human body by collecting data through G-Suit gear integrated with sensors. The data collected from these sensors is stored and processed, allowing both physiotherapists and users to monitor muscle activation through the application.
 
-## Contribution
+### Contribution
 ## Fork Repository
 ### Create a new branch: `git checkout -b branch_name`.
 ### Make changes and commit: `git commit - 'changes detail'`.
